@@ -57,3 +57,11 @@ The trained model successfully detects vehicles in real-time traffic videos and 
 - Speed estimation
 - Traffic density analysis
 - Smart city applications
+
+## Results
+
+![Detection 1](Screenshot%202026-05-14%20230733.png)
+
+![Detection 2](Screenshot%202026-05-14%20230803.png)
+
+![Detection 3](Screenshot%202026-05-14%20230831.png)
